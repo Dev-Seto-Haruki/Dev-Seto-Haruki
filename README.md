@@ -7,7 +7,7 @@
 I build practical AI systems, from model experiments to production-minded video and vision pipelines.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dev-Seto-Haruki)
-![Location](https://img.shields.io/badge/Based%20in-South%20Korea-3B82F6?style=flat-square)
+<br />Based in South Korea
 
 </div>
 
